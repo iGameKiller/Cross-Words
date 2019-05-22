@@ -1,0 +1,21 @@
+t 10
+p variável 1
+p include 3
+p unsigned 4
+p vetor 3
+p break 1
+p ponteiro 5
+p switch 3
+p matriz 0
+p sub-rotina 5
+p constante 3
+d 84 Espaço de memória reservado que guarda valores durante a execução de um programa
+d 55 Diretiva de pré-processamento para incluir bibliotecas
+d 81 Modificador aplicado aos tipos char, int e long para torná-los valores sem sinal
+d 36 Conjunto de variáveis do mesmo tipo
+d 40 Comando que termina um laço de repetição
+d 46 Variável que contém um endereço de memória
+d 107 Instrução que avalia uma variável e executa diferentes conjuntos de instruções de acordo com seu valor
+d 51 Nome dado tradicionalmente a um vetor bidimensional
+d 96 Bloco de código que executa determinada tarefa e pode ser chamado em qualquer parte do programa
+d 81 Substitui cada ocorrência do identificador no código fonte pelo valor associado
